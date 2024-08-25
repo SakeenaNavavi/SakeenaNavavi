@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sakeena Navavi</h1>
 <h3 align="center">A passionate Software Engineering Undergraduate from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **Urban Foods - an online marketplace**
+- 🔭 I’m currently working on **Blog writing application**
 
-- 🌱 I’m currently learning **Mobile App development using flutter**
+- 🌱 I’m currently learning **Mobile App development using kotlin**
 
 - 📝 Checkout my articles on [https://dev.to/sakeenanavi](https://dev.to/sakeenanavi)
 
