@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakeena Navavi</h1>
 <h3 align="center">A passionate Software Engineering Undergraduate from Sri Lanka</h3>
 
-- 🔭 I’m currently working on a **Digital Vault**
+- 🔭 I’m currently working on **InfoLock : A Digital Vault**
 
 - 🌱 I’m currently learning **Machine Learning**
 
